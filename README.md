@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @carineferreiras
-- 👀 I’m a Software Engineering and a Fashion Designer
-- 🌱 I’m currently learning HTML, CSS, JS, React.js, Flutter and Dart 
+- 👀 I’m a Software Engineering and a Designer
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/carine-ferreira-da-silva/
 
